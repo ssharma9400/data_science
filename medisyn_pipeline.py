@@ -357,7 +357,6 @@ if __name__ == "__main__":
 
     # 3. Cohorts
     clustered_df, kmeans, cluster_summary, text_pipe, silhouette = cluster_customers(train_df, n_clusters=5)
-    
     clustered_df.to_csv(r"folder_for_interview\barclays\cluster_summary.csv", index=False)
 
     # 4. Recommender
