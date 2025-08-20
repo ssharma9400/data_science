@@ -1,0 +1,57 @@
+[
+    {
+        "Medicine Name": "tamiflu",
+        "score": 0.9206349206349206,
+        "explanation": {
+            "Condition similarity": 1.0,
+            "Avg satisfaction rating": 0.825,
+            "Avg effectiveness": 0.857,
+            "Review count": 7,
+            "Final weighted score": 0.921
+        }
+    },
+    {
+        "Medicine Name": "phenergan",
+        "score": 0.8872956852454295,
+        "explanation": {
+            "Condition similarity": 0.83,
+            "Avg satisfaction rating": 0.889,
+            "Avg effectiveness": 1.0,
+            "Review count": 1,
+            "Final weighted score": 0.887
+        }
+    },
+    {
+        "Medicine Name": "qvar",
+        "score": 0.8170836415101198,
+        "explanation": {
+            "Condition similarity": 0.634,
+            "Avg satisfaction rating": 1.0,
+            "Avg effectiveness": 1.0,
+            "Review count": 1,
+            "Final weighted score": 0.817
+        }
+    },
+    {
+        "Medicine Name": "flovent",
+        "score": 0.8170836415101198,
+        "explanation": {
+            "Condition similarity": 0.634,
+            "Avg satisfaction rating": 1.0,
+            "Avg effectiveness": 1.0,
+            "Review count": 1,
+            "Final weighted score": 0.817
+        }
+    },
+    {
+        "Medicine Name": "asmanex",
+        "score": 0.8170836415101198,
+        "explanation": {
+            "Condition similarity": 0.634,
+            "Avg satisfaction rating": 1.0,
+            "Avg effectiveness": 1.0,
+            "Review count": 1,
+            "Final weighted score": 0.817
+        }
+    }
+]
